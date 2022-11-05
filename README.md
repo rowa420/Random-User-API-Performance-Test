@@ -23,5 +23,6 @@
  ##Screenshort of the repository
  
     
-    ![Screenshot 2022-11-06 012804](https://user-images.githubusercontent.com/69245641/200138104-987c9b19-66cf-4be1-b96d-7be798de4125.png)
-    ![Screenshot 2022-11-06 012535](https://user-images.githubusercontent.com/69245641/200138111-af9754b1-28ad-49f4-98ca-881bc441634c.png)
+   ![ss1](https://user-images.githubusercontent.com/69245641/200138161-934900a7-d50c-4871-a029-5df713dc080e.png)
+![ss2](https://user-images.githubusercontent.com/69245641/200138168-108bd821-3f6b-43f5-ae64-7b12b76c3115.png)
+
